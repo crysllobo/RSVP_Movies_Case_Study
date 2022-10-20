@@ -1,4 +1,4 @@
-# RSVP_Movies_Case_Study
+# RSVP Movies Case Study
 
 ### Introduction
 
